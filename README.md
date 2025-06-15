@@ -18,7 +18,7 @@ cuMatfuse is a minimal CUDA library for fused matrix multiplication with ReLU ac
 ## 🔧 Build Instructions
 
 ```bash
-git clone https://github.com/yourusername/cuMatfuse.git
+git clone https://github.com/divakar-yadav/cuMatfuse.git
 cd cuMatfuse
 mkdir build && cd build
 cmake ..
